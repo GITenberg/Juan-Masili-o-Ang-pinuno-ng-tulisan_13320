@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4994
     wikipedia: http://en.wikipedia.org/wiki/Patricio_Mariano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13320#Juan-Masili-o-Ang-pinuno-ng-tulisan
 gutenberg_issued: '2004-08-29'
 gutenberg_type: Text
 identifiers:
