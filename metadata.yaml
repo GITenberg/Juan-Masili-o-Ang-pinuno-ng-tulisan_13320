@@ -1,0 +1,28 @@
+_repo: Juan-Masili-o-Ang-pinuno-ng-tulisan_13320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mariano, Patricio
+    birthdate: 1877
+    deathdate: 1935
+    gutenberg_agent_id: '4994'
+    url: http://www.gutenberg.org/2009/agents/4994
+    wikipedia: http://en.wikipedia.org/wiki/Patricio_Mariano
+description: ''
+gutenberg_issued: '2004-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13320'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Love stories'
+- !lcsh 'Tagalog fiction'
+title: Juan Masili o Ang pinuno ng tulisan
+url: http://www.gutenberg.org/ebooks/13320
